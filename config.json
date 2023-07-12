@@ -2,7 +2,7 @@
     "proxy": {
         "url": "http://127.0.0.1:7890",
         "rss": false,
-        "bot": false
+        "bot": true
     },
 
     "rss": {
@@ -61,9 +61,9 @@
         "qq": {
             "enabled": false,
             "secrets": "QQ_KEY",
-            "qq_id": "2419110059",
-            "group_id": ["808542982", "217863340"],
-            "key": "xxxxxxxxxx"
+            "qq_id": "2597521335",
+            "group_id": ["891013951"],
+            "key": "w^@zKh8q74hI5t*x"
         },
         "telegram":{
             "enabled": false,
