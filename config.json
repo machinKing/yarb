@@ -16,7 +16,7 @@
             "filename": "CyberSecurityRSS.opml"
         },
         "CyberSecurityRSS-tiny": {
-            "enabled": false,
+            "enabled": true,
             "url": "https://raw.githubusercontent.com/zer0yu/CyberSecurityRSS/master/tiny.opml",
             "filename": "CyberSecurityRSS-tiny.opml"
         },
@@ -31,7 +31,7 @@
             "filename": "awesome-security-feed.opml"
         },
         "wechatRSS": {
-            "enabled": true,
+            "enabled": false,
             "url": "https://raw.githubusercontent.com/ttttmr/Wechat2RSS/master/static/opml/sec.opml",
             "filename": "wechatRSS.opml"
         },
