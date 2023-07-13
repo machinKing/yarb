@@ -37,8 +37,8 @@ jobs:
       - name: Commit
         run: |
           git diff
-          git config --global user.email xingjian0601@icloud.com
-          git config --global user.name maxing-maker
+          git config --global user.email machinKing@163.com
+          git config --global user.name machinKing
           git add archive today.md
           git commit -m "每日安全资讯（`date +'%Y-%m-%d'`）"
 
