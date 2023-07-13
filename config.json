@@ -2,7 +2,7 @@
     "proxy": {
         "url": "http://127.0.0.1:7890",
         "rss": false,
-        "bot": true
+        "bot": false
     },
 
     "rss": {
@@ -59,7 +59,7 @@
             "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
         },
         "qq": {
-            "enabled": true,
+            "enabled": false,
             "secrets": "QQ_KEY",
             "qq_id": "2597521335",
             "group_id": ["891013951"],
