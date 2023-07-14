@@ -39,7 +39,8 @@ def update_today(data: list=[]):
 
     archive_path.parent.mkdir(parents=True, exist_ok=True)
     with open(today_path, 'w+') as f1, open(archive_path, 'w+') as f2:
-        content = f'# 每日安全资讯（{today}）\n\n' + f"""【中移杭研安全实验室资讯简报】
+        content = f'# 每日安全资讯（{today}）\n\n'
+        content += f"""【中移杭研安全实验室资讯简报】
 {year}年{month}月{day}日 {weekday}
 ---------------------------
 【威胁情报】
