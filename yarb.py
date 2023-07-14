@@ -54,7 +54,7 @@ def update_today(data: list=[]):
             (feed, value), = item.items()
             content += f'- {feed}\n'
             for title, url in value.items():
-                content += f'  - [{title}]({url})\n'
+                content += f'  - {title}\n{url}\n'
         f1.write(content)
         f2.write(content)
 
