@@ -19,6 +19,11 @@ import requests
 requests.packages.urllib3.disable_warnings()
 
 today = datetime.datetime.now().strftime("%Y-%m-%d")
+year = datetime.datetime.now().year
+month = datetime.datetime.now().month
+day = datetime.datetime.now().day
+week_list = ["星期一","星期二","星期三","星期四","星期五","星期六","星期日"]
+weekday = week_list[datetime.datetime.now().date().weekday()]
 
 
 def update_today(data: list=[]):
@@ -172,6 +177,16 @@ def cleanup():
 def job(args):
     """定时任务"""
     print(f'{pyfiglet.figlet_format("yarb")}\n{today}')
+    print("""【中移杭研安全实验室资讯简报】
+{y}年{m}月{d}日 {w}
+---------------------------
+【威胁情报】
+
+【安全事件】
+
+【行业资讯】
+
+""".format(y = year, m = month, d = day, w = weekday))
 
     global root_path
     root_path = Path(__file__).absolute().parent
