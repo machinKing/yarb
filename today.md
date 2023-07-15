@@ -4,8 +4,21 @@
 2023年7月15日 星期六
 ---------------------------
 【威胁情报】
+Windows错误报告服务权限提升漏洞（CVE-2023-36874）通告
+http://blog.nsfocus.net/windowscve-2023-36874/
+
+FortiOS和FortiProxy堆栈溢出漏洞（CVE-2023-33308）通告
+http://blog.nsfocus.net/fortiosfortiproxycve-2023-33308/
+
+Apache RocketMQ 远程代码执行漏洞(CVE-2023-37582)安全风险通告
+https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247499103&idx=1&sn=302e71595751c4e7cd989e54a18612af&chksm=fe79d9c7c90e50d1809e9e61166ef6204eab0f8643430c9c76d8e37c68bf3ff1d80693707388&scene=58&subscene=0#rd
 
 【安全事件】
+山寨版 Threads登苹果下载榜第一，黑客借此分发恶意软件
+https://www.freebuf.com/news/372083.html
+
+RustDog钓鱼木马再升温，360日均阻断数千次
+https://www.anquanke.com/post/id/289727
 
 【行业资讯】
 
