@@ -6,6 +6,20 @@
 【威胁情报】
 
 【安全事件】
+被大肆利用的漏洞导致数百个太阳能发电站面临威胁
+https://www.4hou.com/posts/9ALz
+
+数百架无人机因技术故障掉进了墨尔本的雅拉河
+https://www.solidot.org/story?sid=75527
+
+外交部：中国政府遭受海量网络攻击，大多来自美国
+https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652039587&idx=1&sn=711f61a693115e34e19aa00683a07538&chksm=f36fc5e3c4184cf581252434536bfc4692af9b844c661382271591cb899a0a0095e3d5369c89&scene=58&subscene=0#rd
+
+特斯拉 App 被指绕过了苹果 App Store 内购规则
+https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652039587&idx=3&sn=df0e65dc7701f6d03ca8f9d3ce554497&chksm=f36fc5e3c4184cf561727692753d259e9f665f7e8913ce00e10bf3bd08e829c46b2c83f34128&scene=58&subscene=0#rd
+
+前俄罗斯潜艇指挥官因运动软件暴露活动轨迹被枪杀
+https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651137225&idx=1&sn=54fcb1f2159b78bd63431a0c8b11c5d4&chksm=f1af53f3c6d8dae5db2e29d526112f044856a36ab03462ef5ff9fefed28ce991f2500868e1c4&scene=58&subscene=0#rd
 
 【行业资讯】
 
