@@ -4,8 +4,21 @@
 2023年7月18日 星期二
 ---------------------------
 【威胁情报】
+Windows用户注意！LokiBot恶意软件正通过Office文档传播
+https://www.freebuf.com/news/372237.html
+
+小型办公室需警惕！路由器僵尸网络 AVrecon 已扩散到 20 个国家的 7 万台设备！
+https://hackernews.cc/archives/44611
+
+Linux Kernel 本地权限提升漏洞 (CVE-2023-31248) 安全风险通告
+https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247499138&idx=1&sn=f1b780fd2f6c7c609f1d875cbf1fd09c&chksm=fe79d91ac90e500cbcff998db9b3172b65b2c3d28c75ae2b21f59b7c60d8809809f406d924e7&scene=58&subscene=0#rd
 
 【安全事件】
+超百万站点使用，WordPress 插件 AIOS 被曝以明文记录密码
+https://www.freebuf.com/news/372245.html
+
+Docker Hub 的数千个镜像泄露了敏感数据
+https://www.freebuf.com/news/372226.html
 
 【行业资讯】
 
