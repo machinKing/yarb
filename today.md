@@ -4,8 +4,21 @@
 2023年7月19日 星期三
 ---------------------------
 【威胁情报】
+速查！思科SDS-WAN管理曝高危漏洞
+https://www.freebuf.com/news/372376.html
+
+Adobe 警告客户 ColdFusion RCE 漏洞已被攻击者利用
+https://www.freebuf.com/news/372341.html
+
+网络攻击者正利用 Word文档漏洞部署 LokiBot 恶意软件
+https://www.freebuf.com/news/372336.html
 
 【安全事件】
+美国某市政府出现重大数据泄露事件，疑似离职人员未删除权限
+https://www.freebuf.com/news/372331.html
+
+JumpCloud 遭政府支持黑客入侵
+https://www.solidot.org/story?sid=75551
 
 【行业资讯】
 
