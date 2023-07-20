@@ -4,8 +4,21 @@
 2023年7月20日 星期四
 ---------------------------
 【威胁情报】
+Citrix ADC及Citrix Gateway 远程代码执行漏洞 CVE-2023-3519
+https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247519686&idx=2&sn=8390b80d386d4d107942a3418c1cb7d3&chksm=ce4606d6f9318fc0cb6b93af87910437602829d46be0198655b5c0af62a72fc04c3e2999e16b&scene=58&subscene=0#rd
+
+谷歌云构建漏洞容易引发潜在的供应链攻击
+https://www.freebuf.com/news/372456.html
 
 【安全事件】
+仅因一个字母，美国军方泄露数万封军事邮件
+https://www.freebuf.com/news/372458.html
+
+Virus Total 曝数据泄露大事件：涉及多国情报部门
+https://www.freebuf.com/news/372449.html
+
+曾冒充Sophos进行非法活动，又一新型勒索软件曝光！
+https://www.freebuf.com/news/372446.html
 
 【行业资讯】
 
