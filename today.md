@@ -4,8 +4,27 @@
 2023年7月21日 星期五
 ---------------------------
 【威胁情报】
+OpenSSH ssh-agent 远程代码执行漏洞(CVE-2023-38408)安全风险通告
+https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247499208&idx=2&sn=4fce93f53577e992ba0ecb0df96f8882&chksm=fe79d950c90e50465547dcc5215d1d879fc3b97fceda1fb4b73b7e5155e30064d9eec8031308&scene=58&subscene=0#rd
+
+Atlassian Confluence Data Center & Server 远程代码执行漏洞安全风险通告
+https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247499208&idx=3&sn=ea78ed01984c8162e634097022707909&chksm=fe79d950c90e50461b3bf692fdb737afb57039bdace80e60b1aa0c113c74e0be7d2d5603299a&scene=58&subscene=0#rd
+
+Spring Security 身份认证绕过漏洞(CVE-2023-34034)安全风险通告
+https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247499208&idx=4&sn=69661c101bfd2941e3d18cf1ecd98a79&chksm=fe79d950c90e50460932242b4a4011b7826c238ad124d7ce520687bdb6b0286a2dc9e3bc019d&scene=58&subscene=0#rd
 
 【安全事件】
+成千上万的 OpenAI 凭证在暗网上待售
+https://hackernews.cc/archives/44703
+
+WhatsApp 在全球范围内宕机，超 20 万用户受影响
+https://hackernews.cc/archives/44699
+
+一个错误操作致美国、德国情报机构雇员信息泄漏
+https://hackernews.cc/archives/44690
+
+  - 双重伤害！雅诗兰黛同时遭遇两个勒索软件的攻击
+https://hackernews.cc/archives/44687
 
 【行业资讯】
 
