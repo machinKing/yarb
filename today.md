@@ -4,8 +4,33 @@
 2023年7月22日 星期六
 ---------------------------
 【威胁情报】
+云计算供应链遭遇重大安全风险！AMI MegaRAC BMC 曝两大关键漏洞
+https://buaq.net/go-172650.html
+
+Apache OpenMeetings 网络会议工具曝出严重漏洞
+https://hackernews.cc/archives/44729
 
 【安全事件】
+瑞星捕获疑似朝鲜黑客组织针对韩国发起的APT攻击
+https://www.aqniu.com/vendor/98028.html
+
+今年最大规模网络攻击：受害机构数量逼近 400 家，影响人数超 2 千万
+https://hackernews.cc/archives/44733
+
+外交部回应中国黑客入侵驻华大使电邮
+https://buaq.net/go-172673.html
+
+超百人团伙涉嫌支持俄罗斯，乌克兰网警将其击破
+https://hackernews.cc/archives/44725
+
+美国学生遭遇求职诈骗邮件“轰炸”！
+https://hackernews.cc/archives/44721
+
+匿名苏丹再次发起攻击！Only Fans 网站沦陷
+https://hackernews.cc/archives/44714
+
+GitHub 提醒 Lazarus 黑客组织利用恶意项目攻击开发人员
+https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247517127&idx=2&sn=18d95fca91d5d3e707a2b97d82c043f3&chksm=ea94b2addde33bbb3417005732d1595e151e3bf9cdd4f1a6e4ffc8cea828afc2e4b65a7f88d8&scene=58&subscene=0#rd
 
 【行业资讯】
 
