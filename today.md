@@ -4,8 +4,21 @@
 2023年7月26日 星期三
 ---------------------------
 【威胁情报】
+保密多年的无线电加密代码存在漏洞
+https://hackernews.cc/archives/44776
 
+苹果发布安全更新，修复了今年第11个零日漏洞！
+https://www.freebuf.com/news/372954.html
 【安全事件】
+零日攻击引爆政务系统同质化风险，挪威十余个政务平台敏感数据或泄露
+https://hackernews.cc/archives/44763
+
+Roblox 数据泄露：近 4000 个开发者账户信息被盗
+https://hackernews.cc/archives/44752
+
+黑客正在利用Citrix新0day漏洞，全球超过15000个Citrix服务器易受攻击
+https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458510261&idx=2&sn=95534e1d9859ce12ff979f19e0893861&chksm=b18ed33f86f95a29de6ca959c0ed435aede7cc2093d0c9de0209ddfa143fa9b6d72cee985280&scene=58&subscene=0#rd
+
 
 【行业资讯】
 
