@@ -4,8 +4,21 @@
 2023年7月31日 星期一
 ---------------------------
 【威胁情报】
+全球紧急服务通信协议曝出五个零日漏洞
+https://www.4hou.com/posts/EXWg
 
 【安全事件】
+新型Mallox勒索软件通过招募加盟组织来快速扩张
+https://www.4hou.com/posts/kjX6
+
+黑客组织利用SocGholish框架发动新一轮攻击活动
+https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247487720&idx=1&sn=33baa3cca91b7cedbf62b1bff5343444&chksm=902fbfc0a75836d6d999d7702c5691f046589a40c2fe428b3d50a403f994c0facb48bb8a858e&scene=58&subscene=0#rd
+
+Linux 版本的 Abyss Locker 勒索软件针对 VMware ESXi 服务器
+https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652040793&idx=3&sn=0cde96defb5f44301b95ed4f21685b42&chksm=f36fc219c4184b0f48df55932e6e1a076609888e84eb03e7f46913b8a7363d16ccae849e964e&scene=58&subscene=0#rd
+
+CISA：在被黑的 Barracuda ESG 设备上发现新的潜艇恶意软件
+https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652040793&idx=4&sn=7a3589166f1da3982ef7daa30dee8cc4&chksm=f36fc219c4184b0ff28b8ed7ca9712fb1eb3020269af64d27003a5979c4406abd7af4551bfd7&scene=58&subscene=0#rd
 
 【行业资讯】
 
