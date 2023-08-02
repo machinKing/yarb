@@ -4,8 +4,21 @@
 2023年8月2日 星期三
 ---------------------------
 【威胁情报】
+风险提示｜Smartbi 权限绕过漏洞导致后台接管
+https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247491680&idx=1&sn=5a3e981c1052bd15ec5f6e2483132a11&chksm=96f7ff0da180761bb48d115b5b6efdd2edf45b0a257a10454dfa577920b9c6dc511a77225281&scene=58&subscene=0#rd
+
+Patchwork 黑客组织瞄准我国大学和研究机构
+https://www.freebuf.com/news/373543.html
 
 【安全事件】
+美空军工程师窃取军方通信设备，五角大楼紧急调查“安全事件”
+https://www.freebuf.com/news/373541.html
+
+佳能喷墨打印机广泛存在安全问题 重置后WiFi数据不会被清除有泄露风险
+https://buaq.net/go-173405.html
+
+加拿大专业医疗厂商被黑，心脏监测服务瘫痪数天
+https://hackernews.cc/archives/44874
 
 【行业资讯】
 
