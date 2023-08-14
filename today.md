@@ -6,6 +6,14 @@
 【威胁情报】
 
 【安全事件】
+两名青少年时隔 15 年再次破解波士顿地铁卡
+https://buaq.net/go-174302.html
+
+研究员认为切尔诺贝利辐射值被操纵
+https://buaq.net/go-174301.html
+
+ChatGPT 的编程问题错误率超过五成
+https://www.solidot.org/story?sid=75782
 
 【行业资讯】
 
