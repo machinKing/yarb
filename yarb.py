@@ -233,7 +233,7 @@ def job(args):
     for bot in bots:
         bot.send(bot.parse_results(results))
 
-    cleanup()
+    # cleanup()
 
 
 def argument():
