@@ -12,7 +12,7 @@ import feedparser
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-from bot import *
+# from bot import *
 from utils import *
 
 import requests
