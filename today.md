@@ -6,6 +6,11 @@
 【威胁情报】
 
 【安全事件】
+黑客开始使用双DLL侧加载技术来逃避检测
+https://www.4hou.com/posts/JKyl
+
+网络钓鱼层出不穷：假期旅游谨防受骗
+https://www.4hou.com/posts/rqvK
 
 【行业资讯】
 
