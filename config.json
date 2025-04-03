@@ -11,7 +11,7 @@
             "filename": "CustomRSS.opml"
         },
         "CyberSecurityRSS": {
-            "enabled": false,
+            "enabled": true,
             "url": "https://raw.githubusercontent.com/zer0yu/CyberSecurityRSS/master/CyberSecurityRSS.opml",
             "filename": "CyberSecurityRSS.opml"
         },
